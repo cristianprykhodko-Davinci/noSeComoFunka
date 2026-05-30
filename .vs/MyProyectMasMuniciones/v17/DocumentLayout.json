@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Usuario\\Desktop\\MyProyectMasMuniciones\\MyProyectMasMuniciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57586693-7509-7C35-9E85-5DDFAC64529E}|Assembly-CSharp.csproj|d:\\usuario\\desktop\\myproyectmasmuniciones\\myproyectmasmuniciones\\assets\\script\\menu\\menu_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57586693-7509-7C35-9E85-5DDFAC64529E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\menu\\menu_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57586693-7509-7C35-9E85-5DDFAC64529E}|Assembly-CSharp.csproj|d:\\usuario\\desktop\\myproyectmasmuniciones\\myproyectmasmuniciones\\assets\\script\\player\\apuntadogomera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57586693-7509-7C35-9E85-5DDFAC64529E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\apuntadogomera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57586693-7509-7C35-9E85-5DDFAC64529E}|Assembly-CSharp.csproj|D:\\Usuario\\Desktop\\MyProyectMasMuniciones\\MyProyectMasMuniciones\\assets\\script\\player\\disparogomera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57586693-7509-7C35-9E85-5DDFAC64529E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\disparogomera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57586693-7509-7C35-9E85-5DDFAC64529E}|Assembly-CSharp.csproj|D:\\Usuario\\Desktop\\MyProyectMasMuniciones\\MyProyectMasMuniciones\\assets\\script\\enemy\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57586693-7509-7C35-9E85-5DDFAC64529E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57586693-7509-7C35-9E85-5DDFAC64529E}|Assembly-CSharp.csproj|D:\\Usuario\\Desktop\\MyProyectMasMuniciones\\MyProyectMasMuniciones\\assets\\script\\enemy\\enemystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57586693-7509-7C35-9E85-5DDFAC64529E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\enemystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57586693-7509-7C35-9E85-5DDFAC64529E}|Assembly-CSharp.csproj|D:\\Usuario\\Desktop\\MyProyectMasMuniciones\\MyProyectMasMuniciones\\assets\\script\\enemy\\enemyhearing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57586693-7509-7C35-9E85-5DDFAC64529E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\enemyhearing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57586693-7509-7C35-9E85-5DDFAC64529E}|Assembly-CSharp.csproj|D:\\Usuario\\Desktop\\MyProyectMasMuniciones\\MyProyectMasMuniciones\\assets\\script\\player\\municiones\\proyectilgancho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57586693-7509-7C35-9E85-5DDFAC64529E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\municiones\\proyectilgancho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57586693-7509-7C35-9E85-5DDFAC64529E}|Assembly-CSharp.csproj|D:\\Usuario\\Desktop\\MyProyectMasMuniciones\\MyProyectMasMuniciones\\assets\\script\\player\\municiones\\proyectilbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57586693-7509-7C35-9E85-5DDFAC64529E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\municiones\\proyectilbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57586693-7509-7C35-9E85-5DDFAC64529E}|Assembly-CSharp.csproj|D:\\Usuario\\Desktop\\MyProyectMasMuniciones\\MyProyectMasMuniciones\\assets\\script\\player\\stealthplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57586693-7509-7C35-9E85-5DDFAC64529E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\stealthplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57586693-7509-7C35-9E85-5DDFAC64529E}|Assembly-CSharp.csproj|D:\\Usuario\\Desktop\\MyProyectMasMuniciones\\MyProyectMasMuniciones\\assets\\script\\player\\hidespot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57586693-7509-7C35-9E85-5DDFAC64529E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\hidespot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57586693-7509-7C35-9E85-5DDFAC64529E}|Assembly-CSharp.csproj|D:\\Usuario\\Desktop\\MyProyectMasMuniciones\\MyProyectMasMuniciones\\assets\\script\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57586693-7509-7C35-9E85-5DDFAC64529E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57586693-7509-7C35-9E85-5DDFAC64529E}|Assembly-CSharp.csproj|D:\\Usuario\\Desktop\\MyProyectMasMuniciones\\MyProyectMasMuniciones\\assets\\script\\audio\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57586693-7509-7C35-9E85-5DDFAC64529E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\audio\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57586693-7509-7C35-9E85-5DDFAC64529E}|Assembly-CSharp.csproj|D:\\Usuario\\Desktop\\MyProyectMasMuniciones\\MyProyectMasMuniciones\\assets\\script\\player\\municiones\\proyectilruido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57586693-7509-7C35-9E85-5DDFAC64529E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\municiones\\proyectilruido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57586693-7509-7C35-9E85-5DDFAC64529E}|Assembly-CSharp.csproj|D:\\Usuario\\Desktop\\MyProyectMasMuniciones\\MyProyectMasMuniciones\\assets\\script\\audio\\soundstimulus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57586693-7509-7C35-9E85-5DDFAC64529E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\audio\\soundstimulus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57586693-7509-7C35-9E85-5DDFAC64529E}|Assembly-CSharp.csproj|D:\\Usuario\\Desktop\\MyProyectMasMuniciones\\MyProyectMasMuniciones\\assets\\script\\player\\municiones\\proyectilrelentizante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57586693-7509-7C35-9E85-5DDFAC64529E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\municiones\\proyectilrelentizante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu_Inicial.cs",
+              "DocumentMoniker": "D:\\Usuario\\Desktop\\MyProyectMasMuniciones\\MyProyectMasMuniciones\\Assets\\Script\\Menu\\Menu_Inicial.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Menu\\Menu_Inicial.cs",
+              "ToolTip": "D:\\Usuario\\Desktop\\MyProyectMasMuniciones\\MyProyectMasMuniciones\\Assets\\Script\\Menu\\Menu_Inicial.cs",
+              "RelativeToolTip": "Assets\\Script\\Menu\\Menu_Inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T22:11:10.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemyAI.cs",
+              "DocumentMoniker": "D:\\Usuario\\Desktop\\MyProyectMasMuniciones\\MyProyectMasMuniciones\\Assets\\Script\\Enemy\\EnemyAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\EnemyAI.cs",
+              "ToolTip": "D:\\Usuario\\Desktop\\MyProyectMasMuniciones\\MyProyectMasMuniciones\\Assets\\Script\\Enemy\\EnemyAI.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy\\EnemyAI.cs",
+              "ViewState": "AgIAANwAAAAAAAAAAADwv4YAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T05:12:27.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnemyHearing.cs",
+              "DocumentMoniker": "D:\\Usuario\\Desktop\\MyProyectMasMuniciones\\MyProyectMasMuniciones\\Assets\\Script\\Enemy\\EnemyHearing.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\EnemyHearing.cs",
+              "ToolTip": "D:\\Usuario\\Desktop\\MyProyectMasMuniciones\\MyProyectMasMuniciones\\Assets\\Script\\Enemy\\EnemyHearing.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy\\EnemyHearing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T05:10:35.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemyState.cs",
+              "DocumentMoniker": "D:\\Usuario\\Desktop\\MyProyectMasMuniciones\\MyProyectMasMuniciones\\Assets\\Script\\Enemy\\EnemyState.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\EnemyState.cs",
+              "ToolTip": "D:\\Usuario\\Desktop\\MyProyectMasMuniciones\\MyProyectMasMuniciones\\Assets\\Script\\Enemy\\EnemyState.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy\\EnemyState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T05:09:01.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProyectilGancho.cs",
+              "DocumentMoniker": "D:\\Usuario\\Desktop\\MyProyectMasMuniciones\\MyProyectMasMuniciones\\Assets\\Script\\Player\\municiones\\ProyectilGancho.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\municiones\\ProyectilGancho.cs",
+              "ToolTip": "D:\\Usuario\\Desktop\\MyProyectMasMuniciones\\MyProyectMasMuniciones\\Assets\\Script\\Player\\municiones\\ProyectilGancho.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\municiones\\ProyectilGancho.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T04:18:22.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "proyectilBase.cs",
+              "DocumentMoniker": "D:\\Usuario\\Desktop\\MyProyectMasMuniciones\\MyProyectMasMuniciones\\Assets\\Script\\Player\\municiones\\proyectilBase.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\municiones\\proyectilBase.cs",
+              "ToolTip": "D:\\Usuario\\Desktop\\MyProyectMasMuniciones\\MyProyectMasMuniciones\\Assets\\Script\\Player\\municiones\\proyectilBase.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\municiones\\proyectilBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T03:44:53.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StealthPlayer.cs",
+              "DocumentMoniker": "D:\\Usuario\\Desktop\\MyProyectMasMuniciones\\MyProyectMasMuniciones\\Assets\\Script\\Player\\StealthPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\StealthPlayer.cs",
+              "ToolTip": "D:\\Usuario\\Desktop\\MyProyectMasMuniciones\\MyProyectMasMuniciones\\Assets\\Script\\Player\\StealthPlayer.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\StealthPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T03:30:12.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HideSpot.cs",
+              "DocumentMoniker": "D:\\Usuario\\Desktop\\MyProyectMasMuniciones\\MyProyectMasMuniciones\\Assets\\Script\\Player\\HideSpot.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\HideSpot.cs",
+              "ToolTip": "D:\\Usuario\\Desktop\\MyProyectMasMuniciones\\MyProyectMasMuniciones\\Assets\\Script\\Player\\HideSpot.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\HideSpot.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T03:30:09.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Usuario\\Desktop\\MyProyectMasMuniciones\\MyProyectMasMuniciones\\Assets\\Script\\Player\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\Player.cs",
+              "ToolTip": "D:\\Usuario\\Desktop\\MyProyectMasMuniciones\\MyProyectMasMuniciones\\Assets\\Script\\Player\\Player.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\Player.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T18:04:29.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DisparoGomera.cs",
+              "DocumentMoniker": "D:\\Usuario\\Desktop\\MyProyectMasMuniciones\\MyProyectMasMuniciones\\Assets\\Script\\Player\\DisparoGomera.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\DisparoGomera.cs",
+              "ToolTip": "D:\\Usuario\\Desktop\\MyProyectMasMuniciones\\MyProyectMasMuniciones\\Assets\\Script\\Player\\DisparoGomera.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\DisparoGomera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T18:03:32.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "D:\\Usuario\\Desktop\\MyProyectMasMuniciones\\MyProyectMasMuniciones\\Assets\\Script\\Audio\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Audio\\AudioManager.cs",
+              "ToolTip": "D:\\Usuario\\Desktop\\MyProyectMasMuniciones\\MyProyectMasMuniciones\\Assets\\Script\\Audio\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Audio\\AudioManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T05:11:24.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProyectilRelentizante.cs",
+              "DocumentMoniker": "D:\\Usuario\\Desktop\\MyProyectMasMuniciones\\MyProyectMasMuniciones\\Assets\\Script\\Player\\municiones\\ProyectilRelentizante.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\municiones\\ProyectilRelentizante.cs",
+              "ToolTip": "D:\\Usuario\\Desktop\\MyProyectMasMuniciones\\MyProyectMasMuniciones\\Assets\\Script\\Player\\municiones\\ProyectilRelentizante.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\municiones\\ProyectilRelentizante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T05:16:24.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApuntadoGomera.cs",
+              "DocumentMoniker": "D:\\Usuario\\Desktop\\MyProyectMasMuniciones\\MyProyectMasMuniciones\\Assets\\Script\\Player\\ApuntadoGomera.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\ApuntadoGomera.cs",
+              "ToolTip": "D:\\Usuario\\Desktop\\MyProyectMasMuniciones\\MyProyectMasMuniciones\\Assets\\Script\\Player\\ApuntadoGomera.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\ApuntadoGomera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T06:00:25.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProyectilRuido.cs",
+              "DocumentMoniker": "D:\\Usuario\\Desktop\\MyProyectMasMuniciones\\MyProyectMasMuniciones\\Assets\\Script\\Player\\municiones\\ProyectilRuido.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\municiones\\ProyectilRuido.cs",
+              "ToolTip": "D:\\Usuario\\Desktop\\MyProyectMasMuniciones\\MyProyectMasMuniciones\\Assets\\Script\\Player\\municiones\\ProyectilRuido.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\municiones\\ProyectilRuido.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T06:27:21.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SoundStimulus.cs",
+              "DocumentMoniker": "D:\\Usuario\\Desktop\\MyProyectMasMuniciones\\MyProyectMasMuniciones\\Assets\\Script\\Audio\\SoundStimulus.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Audio\\SoundStimulus.cs",
+              "ToolTip": "D:\\Usuario\\Desktop\\MyProyectMasMuniciones\\MyProyectMasMuniciones\\Assets\\Script\\Audio\\SoundStimulus.cs",
+              "RelativeToolTip": "Assets\\Script\\Audio\\SoundStimulus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T06:33:38.608Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Usuario\\Desktop\\Proyecto GumShot 1.2.2 (Enemigo2)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41A02AE7-5556-2426-2776-28F8628213AB}|Assembly-CSharp.csproj|D:\\Usuario\\Desktop\\Proyecto GumShot 1.2.2 (Enemigo2)\\assets\\script\\menu\\fademuerte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A02AE7-5556-2426-2776-28F8628213AB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\menu\\fademuerte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A02AE7-5556-2426-2776-28F8628213AB}|Assembly-CSharp.csproj|D:\\Usuario\\Desktop\\Proyecto GumShot 1.2.2 (Enemigo2)\\assets\\script\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A02AE7-5556-2426-2776-28F8628213AB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A02AE7-5556-2426-2776-28F8628213AB}|Assembly-CSharp.csproj|d:\\usuario\\desktop\\proyecto gumshot 1.2.2 (enemigo2)\\assets\\script\\player\\pickupgomera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A02AE7-5556-2426-2776-28F8628213AB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\pickupgomera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A02AE7-5556-2426-2776-28F8628213AB}|Assembly-CSharp.csproj|d:\\usuario\\desktop\\proyecto gumshot 1.2.2 (enemigo2)\\assets\\script\\player\\gomeraunlock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A02AE7-5556-2426-2776-28F8628213AB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\gomeraunlock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A02AE7-5556-2426-2776-28F8628213AB}|Assembly-CSharp.csproj|D:\\Usuario\\Desktop\\Proyecto GumShot 1.2.2 (Enemigo2)\\assets\\script\\enemy\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A02AE7-5556-2426-2776-28F8628213AB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A02AE7-5556-2426-2776-28F8628213AB}|Assembly-CSharp.csproj|D:\\Usuario\\Desktop\\Proyecto GumShot 1.2.2 (Enemigo2)\\assets\\script\\enemy\\enemysounonly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A02AE7-5556-2426-2776-28F8628213AB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\enemysounonly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A02AE7-5556-2426-2776-28F8628213AB}|Assembly-CSharp.csproj|D:\\Usuario\\Desktop\\Proyecto GumShot 1.2.2 (Enemigo2)\\assets\\script\\enemy\\enemyvision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A02AE7-5556-2426-2776-28F8628213AB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\enemyvision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A02AE7-5556-2426-2776-28F8628213AB}|Assembly-CSharp.csproj|D:\\Usuario\\Desktop\\Proyecto GumShot 1.2.2 (Enemigo2)\\assets\\script\\player\\playernoiseemitter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A02AE7-5556-2426-2776-28F8628213AB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\playernoiseemitter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A02AE7-5556-2426-2776-28F8628213AB}|Assembly-CSharp.csproj|D:\\Usuario\\Desktop\\Proyecto GumShot 1.2.2 (Enemigo2)\\assets\\script\\player\\hidespot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A02AE7-5556-2426-2776-28F8628213AB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\hidespot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A02AE7-5556-2426-2776-28F8628213AB}|Assembly-CSharp.csproj|D:\\Usuario\\Desktop\\Proyecto GumShot 1.2.2 (Enemigo2)\\assets\\script\\player\\stealthplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A02AE7-5556-2426-2776-28F8628213AB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\stealthplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A02AE7-5556-2426-2776-28F8628213AB}|Assembly-CSharp.csproj|D:\\Usuario\\Desktop\\Proyecto GumShot 1.2.2 (Enemigo2)\\assets\\script\\camara\\camara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A02AE7-5556-2426-2776-28F8628213AB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\camara\\camara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A02AE7-5556-2426-2776-28F8628213AB}|Assembly-CSharp.csproj|D:\\Usuario\\Desktop\\Proyecto GumShot 1.2.2 (Enemigo2)\\assets\\script\\puzzle\\activarnota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A02AE7-5556-2426-2776-28F8628213AB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\puzzle\\activarnota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A02AE7-5556-2426-2776-28F8628213AB}|Assembly-CSharp.csproj|D:\\Usuario\\Desktop\\Proyecto GumShot 1.2.2 (Enemigo2)\\assets\\script\\player\\highlightinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A02AE7-5556-2426-2776-28F8628213AB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\highlightinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A02AE7-5556-2426-2776-28F8628213AB}|Assembly-CSharp.csproj|D:\\Usuario\\Desktop\\Proyecto GumShot 1.2.2 (Enemigo2)\\assets\\script\\puzzle\\candadopuzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A02AE7-5556-2426-2776-28F8628213AB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\puzzle\\candadopuzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A02AE7-5556-2426-2776-28F8628213AB}|Assembly-CSharp.csproj|d:\\usuario\\desktop\\proyecto gumshot 1.2.2 (enemigo2)\\assets\\script\\menu\\menu_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A02AE7-5556-2426-2776-28F8628213AB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\menu\\menu_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Menu_Inicial.cs",
+              "DocumentMoniker": "D:\\Usuario\\Desktop\\Proyecto GumShot 1.2.2 (Enemigo2)\\Assets\\Script\\Menu\\Menu_Inicial.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Menu\\Menu_Inicial.cs",
+              "ToolTip": "D:\\Usuario\\Desktop\\Proyecto GumShot 1.2.2 (Enemigo2)\\Assets\\Script\\Menu\\Menu_Inicial.cs",
+              "RelativeToolTip": "Assets\\Script\\Menu\\Menu_Inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T19:36:26.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GomeraUnlock.cs",
+              "DocumentMoniker": "D:\\Usuario\\Desktop\\Proyecto GumShot 1.2.2 (Enemigo2)\\Assets\\Script\\Player\\GomeraUnlock.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\GomeraUnlock.cs",
+              "ToolTip": "D:\\Usuario\\Desktop\\Proyecto GumShot 1.2.2 (Enemigo2)\\Assets\\Script\\Player\\GomeraUnlock.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\GomeraUnlock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T18:57:16.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PickupGomera.cs",
+              "DocumentMoniker": "D:\\Usuario\\Desktop\\Proyecto GumShot 1.2.2 (Enemigo2)\\Assets\\Script\\Player\\PickupGomera.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\PickupGomera.cs",
+              "ToolTip": "D:\\Usuario\\Desktop\\Proyecto GumShot 1.2.2 (Enemigo2)\\Assets\\Script\\Player\\PickupGomera.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\PickupGomera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T17:34:48.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FadeMuerte.cs",
+              "DocumentMoniker": "D:\\Usuario\\Desktop\\Proyecto GumShot 1.2.2 (Enemigo2)\\Assets\\Script\\Menu\\FadeMuerte.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Menu\\FadeMuerte.cs",
+              "ToolTip": "D:\\Usuario\\Desktop\\Proyecto GumShot 1.2.2 (Enemigo2)\\Assets\\Script\\Menu\\FadeMuerte.cs",
+              "RelativeToolTip": "Assets\\Script\\Menu\\FadeMuerte.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T16:00:53.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CandadoPuzzle.cs",
+              "DocumentMoniker": "D:\\Usuario\\Desktop\\Proyecto GumShot 1.2.2 (Enemigo2)\\Assets\\Script\\Puzzle\\CandadoPuzzle.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Puzzle\\CandadoPuzzle.cs",
+              "ToolTip": "D:\\Usuario\\Desktop\\Proyecto GumShot 1.2.2 (Enemigo2)\\Assets\\Script\\Puzzle\\CandadoPuzzle.cs",
+              "RelativeToolTip": "Assets\\Script\\Puzzle\\CandadoPuzzle.cs",
+              "ViewState": "AgIAAM0AAAAAAAAAAADwv9wAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T14:28:56.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HighlightInteractable.cs",
+              "DocumentMoniker": "D:\\Usuario\\Desktop\\Proyecto GumShot 1.2.2 (Enemigo2)\\Assets\\Script\\Player\\HighlightInteractable.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\HighlightInteractable.cs",
+              "ToolTip": "D:\\Usuario\\Desktop\\Proyecto GumShot 1.2.2 (Enemigo2)\\Assets\\Script\\Player\\HighlightInteractable.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\HighlightInteractable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T13:49:03.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ActivarNota.cs",
+              "DocumentMoniker": "D:\\Usuario\\Desktop\\Proyecto GumShot 1.2.2 (Enemigo2)\\Assets\\Script\\Puzzle\\ActivarNota.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Puzzle\\ActivarNota.cs",
+              "ToolTip": "D:\\Usuario\\Desktop\\Proyecto GumShot 1.2.2 (Enemigo2)\\Assets\\Script\\Puzzle\\ActivarNota.cs",
+              "RelativeToolTip": "Assets\\Script\\Puzzle\\ActivarNota.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T12:30:50.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Usuario\\Desktop\\Proyecto GumShot 1.2.2 (Enemigo2)\\Assets\\Script\\Player\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\Player.cs",
+              "ToolTip": "D:\\Usuario\\Desktop\\Proyecto GumShot 1.2.2 (Enemigo2)\\Assets\\Script\\Player\\Player.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\Player.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAA1wDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T12:53:46.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Camara.cs",
+              "DocumentMoniker": "D:\\Usuario\\Desktop\\Proyecto GumShot 1.2.2 (Enemigo2)\\Assets\\Script\\Camara\\Camara.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Camara\\Camara.cs",
+              "ToolTip": "D:\\Usuario\\Desktop\\Proyecto GumShot 1.2.2 (Enemigo2)\\Assets\\Script\\Camara\\Camara.cs",
+              "RelativeToolTip": "Assets\\Script\\Camara\\Camara.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwBIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T21:53:24.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StealthPlayer.cs",
+              "DocumentMoniker": "D:\\Usuario\\Desktop\\Proyecto GumShot 1.2.2 (Enemigo2)\\Assets\\Script\\Player\\StealthPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\StealthPlayer.cs",
+              "ToolTip": "D:\\Usuario\\Desktop\\Proyecto GumShot 1.2.2 (Enemigo2)\\Assets\\Script\\Player\\StealthPlayer.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\StealthPlayer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T21:42:12.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HideSpot.cs",
+              "DocumentMoniker": "D:\\Usuario\\Desktop\\Proyecto GumShot 1.2.2 (Enemigo2)\\Assets\\Script\\Player\\HideSpot.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\HideSpot.cs",
+              "ToolTip": "D:\\Usuario\\Desktop\\Proyecto GumShot 1.2.2 (Enemigo2)\\Assets\\Script\\Player\\HideSpot.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\HideSpot.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAYwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T21:41:34.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerNoiseEmitter.cs",
+              "DocumentMoniker": "D:\\Usuario\\Desktop\\Proyecto GumShot 1.2.2 (Enemigo2)\\Assets\\Script\\Player\\PlayerNoiseEmitter.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\PlayerNoiseEmitter.cs",
+              "ToolTip": "D:\\Usuario\\Desktop\\Proyecto GumShot 1.2.2 (Enemigo2)\\Assets\\Script\\Player\\PlayerNoiseEmitter.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\PlayerNoiseEmitter.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T12:39:59.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnemyVision.cs",
+              "DocumentMoniker": "D:\\Usuario\\Desktop\\Proyecto GumShot 1.2.2 (Enemigo2)\\Assets\\Script\\Enemy\\EnemyVision.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\EnemyVision.cs",
+              "ToolTip": "D:\\Usuario\\Desktop\\Proyecto GumShot 1.2.2 (Enemigo2)\\Assets\\Script\\Enemy\\EnemyVision.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy\\EnemyVision.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwDcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T21:40:40.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnemySounOnly.cs",
+              "DocumentMoniker": "D:\\Usuario\\Desktop\\Proyecto GumShot 1.2.2 (Enemigo2)\\Assets\\Script\\Enemy\\EnemySounOnly.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\EnemySounOnly.cs",
+              "ToolTip": "D:\\Usuario\\Desktop\\Proyecto GumShot 1.2.2 (Enemigo2)\\Assets\\Script\\Enemy\\EnemySounOnly.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy\\EnemySounOnly.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAswI4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T12:37:56.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemyAI.cs",
+              "DocumentMoniker": "D:\\Usuario\\Desktop\\Proyecto GumShot 1.2.2 (Enemigo2)\\Assets\\Script\\Enemy\\EnemyAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\EnemyAI.cs",
+              "ToolTip": "D:\\Usuario\\Desktop\\Proyecto GumShot 1.2.2 (Enemigo2)\\Assets\\Script\\Enemy\\EnemyAI.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy\\EnemyAI.cs",
+              "ViewState": "AgIAAAwBAAAAAAAAAADwvzYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T21:25:12.674Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
